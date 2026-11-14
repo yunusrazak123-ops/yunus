@@ -1,0 +1,2 @@
+Github is platform used to store and manage code.
+It helps developers to collaboarte and track changes in their projects
